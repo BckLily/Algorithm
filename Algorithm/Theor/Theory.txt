@@ -1,0 +1,10 @@
+
+
+
+자료 구조
+
+Stack(Stack)
+FILO (First In Last Out)
+
+데이터 삽입: push()
+데이터 추출: pop()

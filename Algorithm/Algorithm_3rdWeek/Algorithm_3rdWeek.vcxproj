@@ -142,6 +142,7 @@
     <ClCompile Include="LinearList.cpp" />
     <ClCompile Include="LinkedList.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="myLinkedList.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="ListInfo.txt" />
@@ -149,6 +150,7 @@
   <ItemGroup>
     <ClInclude Include="LinearList.h" />
     <ClInclude Include="LinkedList.h" />
+    <ClInclude Include="myLinkedList.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />

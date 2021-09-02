@@ -1,0 +1,3 @@
+﻿  MySort.cpp
+C:\Students\LILY\CppProgramming\Algorithm\SortingAlgorithm\Sorting1\MySort.cpp(15,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Sorting1.vcxproj -> C:\Students\LILY\CppProgramming\Algorithm\SortingAlgorithm\Debug\Sorting1.exe

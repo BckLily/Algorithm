@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Students\LILY\CppProgramming\Algorithm\SortingAlgorithm\Sorting1\MySort.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Students\LILY\CppProgramming\Algorithm\SortingAlgorithm\Sorting1\ConsoleColorChange.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  The contents of <format> are available only in c++latest mode with concepts support;
+  see https://github.com/microsoft/STL/issues/1814 for details.
+  The contents of <string_view> are available only with C++17 or later.
+C:\Students\LILY\CppProgramming\Algorithm\SortingAlgorithm\Sorting1\main.cpp(9,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Sorting1.vcxproj -> C:\Students\LILY\CppProgramming\Algorithm\SortingAlgorithm\x64\Debug\Sorting1.exe

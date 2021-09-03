@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ConsoleColorChange.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MySort.cpp" />
   </ItemGroup>
@@ -146,6 +147,7 @@
     <None Include=".editorconfig" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ConsoleColorChange.h" />
     <ClInclude Include="MySort.h" />
   </ItemGroup>
   <ItemGroup>
